@@ -5,7 +5,7 @@
 
 ## 🚀 Features  
 
-- **NASA Picture of the Day (POTD)**  
+- **NASA Astronomy Picture of the Day (APOD)**  
   Displays stunning daily photos from NASA's Astronomy Picture of the Day API, complete with descriptions.  
 
 - **NASA HoverPhotos**  
@@ -31,8 +31,11 @@
 ---
 
 ## 📸 Screenshots  
+![Home page - Cosmos](https://github.com/user-attachments/assets/2b853fb5-09aa-4e25-94dc-b5377019c3cb)
+![FireShot Capture 010 - Cosmos - cosmos-sepia vercel app](https://github.com/user-attachments/assets/98046bf6-510a-4ea6-b771-6d71f59bcbe4)
+![FireShot Capture 011 - Cosmos - cosmos-sepia vercel app](https://github.com/user-attachments/assets/a4ad944c-80ce-4856-a1dc-1c54e4b2d90c)
+![FireShot Capture 012 - Cosmos - cosmos-sepia vercel app](https://github.com/user-attachments/assets/53d943fc-baf4-436e-839e-911cda52a677)
 
-_Add screenshots of the application here!_  
 
 ---
 
@@ -73,24 +76,6 @@ _Add screenshots of the application here!_
    VITE_API_GOOGLE=your_google_translate_key
    VITE_API_FIREBASE=your_firebase_api_key
    ```  
-
----
-
-## 📜 License  
-
-This project is licensed under the [MIT License](LICENSE).  
-
----
-
-## 🤝 Contributing  
-
-We welcome contributions! Please follow these steps:  
-
-1. Fork the repository.  
-2. Create a new branch (`git checkout -b feature/your-feature-name`).  
-3. Commit your changes (`git commit -m 'Add your message'`).  
-4. Push to the branch (`git push origin feature/your-feature-name`).  
-5. Create a pull request.  
 
 ---
 
