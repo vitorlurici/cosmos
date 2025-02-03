@@ -1,5 +1,5 @@
 # Cosmos 🌌  
-**A captivating space exploration site** utilizing NASA APIs, Google Translate, and Spaceflight News API. Developed with **React**, **Vite**, **JavaScript**, and **SCSS**.
+**A captivating space exploration site** utilizing NASA APIs, Google Translate, and Spaceflight News API. Developed with **React**, **Vite**, **JavaScript**, **Firebase**, and **SCSS**.
 
 ---
 
