@@ -21,7 +21,8 @@
 
 ## 🛠️ Technologies  
 
-- **Frontend**: React + Vite  
+- **Frontend**: React + Vite
+- **Backend**: Firebase
 - **Styling**: SCSS  
 - **APIs Used**:  
   - [NASA APIs](https://api.nasa.gov/)  
